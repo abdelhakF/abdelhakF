@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+  <title id="title">AF — Abdelhak Falih monogram</title>
+  <desc id="desc">A minimal two-dimensional monogram inside a luminous circular mark.</desc>
+  <defs>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#67E8F9"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#D8B4FE"/></linearGradient>
+    <radialGradient id="disc" cx="32%" cy="24%" r="90%"><stop offset="0" stop-color="#1E293B"/><stop offset="1" stop-color="#070B17"/></radialGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <circle cx="120" cy="120" r="108" fill="url(#disc)" stroke="#334155" stroke-width="2"/>
+  <circle cx="120" cy="120" r="99" fill="none" stroke="url(#ring)" stroke-width="2.5" stroke-dasharray="420 205" stroke-linecap="round" filter="url(#glow)">
+  </circle>
+  <circle cx="120" cy="120" r="83" fill="none" stroke="#64748B" stroke-opacity=".34" stroke-width="1" stroke-dasharray="2 7"/>
+  <path d="M58 166 L91 76 L124 166 M70 135 H113" fill="none" stroke="#E0F2FE" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M119 82 H181 M119 82 V166 M119 124 H166" fill="none" stroke="url(#ring)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <circle cx="187" cy="70" r="5" fill="#67E8F9"/>
+  <circle cx="51" cy="174" r="3" fill="#C4B5FD"/>
+</svg>
