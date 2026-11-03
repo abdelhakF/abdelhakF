@@ -74,7 +74,7 @@ A curated view of the technologies I use and explore across frontend, backend, m
 ### Frontend & experience
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=7" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js and Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nestjs&perline=8" alt="HTML5, CSS3, JavaScript, TypeScript, React, Next.js and Tailwind CSS" />
 </p>
 
 ### Backend & APIs
