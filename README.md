@@ -86,7 +86,7 @@ A curated view of the technologies I use and explore across frontend, backend, m
 ### Mobile engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart&perline=2" alt="Flutter and Dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&perline=3" alt="Flutter and Dart" />
 </p>
 
 ### Databases & persistence
